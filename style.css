@@ -1,0 +1,41 @@
+body {
+    margin: 20px;
+}
+h1 {
+    font-family: "bagel Fat One", "consolas", "sans-serif";
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-color: white;
+    font-size: 75px;
+    background: linear-gradient(to left, rgb(27, 27, 27), rgb(0, 0, 0));
+}
+h4{
+    font-family: "carter One", "consolas", "sans-serif";
+}
+label{
+    font-family: "carter One", "consolas", "sans-serif";
+}
+button{
+    font-family: "carter One", "consolas", "sans-serif";
+    background-color: white;
+    border-radius: 5px;
+}
+::placeholder{
+    font-family: "carter One", "consolas", "sans-serif";
+}
+input{
+    font-family: "carter One", "consolas", "sans-serif";
+}
+.large-input {
+    width: 150px; /* Adjust the width as needed */
+    height: 20px;  /* Adjust the height as needed */
+    font-size: 18px; /* Optional: Increase font size for better readability */
+}
+a {
+    display: block;
+    padding: 20px;
+    margin-top: auto;
+    position: absolute;
+    bottom: 0;
+    font-family: "carter One", "consolas", "sans-serif";
+}
